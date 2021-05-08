@@ -9,7 +9,7 @@ body {
 }
 
 .container {
-    margin: auto;
+    margin: 30% auto;
     display: flex;
     margin-bottom: 10px;
 }
@@ -89,7 +89,7 @@ h2 {
 @media screen and (max-width: 800px) {
     .container {
         width: 80vw;
-        margin: auto;
+        margin: 20px auto;
         display: flex;
         flex-direction: column-reverse;
         align-items: center;
