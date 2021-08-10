@@ -15,7 +15,7 @@ Users should be able to:
 ### Links
 
 - Solution Repo: [My code here](https://github.com/juliedev-web/FEM-stats-preview-card-component-main)
-- Solution live: [My live solution](https://juliedev-web.github.io/FEM-stats-preview-card-component-main/)
+- Solution live: [My live solution](https://fem-stats-preview-card-component-main.vercel.app)
 
 ### Built with
 
